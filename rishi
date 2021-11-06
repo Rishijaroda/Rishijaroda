@@ -74,7 +74,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet AMUSEBOX'
+    banner='figlet RISHIJARODA'
     numbers=[]
     while(y):
         clear()
@@ -143,7 +143,7 @@ if(expirydate>today):
             period=400
             hero()
     else:
-        banner='figlet RXCE'
+        banner='figlet RISHI'
         system(banner)
         print("Hi!! Thanks for buying the hack")
         #print("Hi! thanks for trying our DEMO")
@@ -167,7 +167,7 @@ else:
         else:
             _ = system('clear')
     code="FREEDGSED"
-    banner='figlet RXCE'
+    banner='figlet RISHI'
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
